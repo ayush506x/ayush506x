@@ -1,124 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:00c8ff&height=200&section=header&text=Ayush%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Aspiring%20AI%20Researcher&descAlignY=58&descSize=18&descColor=00c8ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a56a0&height=180&section=header&text=Ayush%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82Deep%20Learning%20%E2%80%82%7C%E2%80%82Aspiring%20AI%20Researcher&descAlignY=56&descSize=16&descColor=88b4cc"/>
 
-</div>
+<br/>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush5606)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush506x)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush7984k@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ayush506x&color=1a56a0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ayush506x)
 
-<a href="https://linkedin.com/in/ayush5606">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/ayush506x">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:ayush7984k@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ayush506x&color=00c8ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Building+neural+networks+from+scratch+%F0%9F%A7%A0;Following+Karpathy's+Zero+to+Hero+%F0%9F%9A%80;CSE+(AI+%26+ML)+%40+LPU+%7C+2025-2029;Aspiring+AI+Researcher+%26+Scientist+%F0%9F%94%AC;Turning+coffee+into+gradients+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=600&lines=Building+neural+networks+from+first+principles;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Karpathy's+Zero+to+Hero+%E2%86%92+Week+01+Micrograd;Aspiring+AI+Researcher+%26+Scientist" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## About
 
-## `> whoami`
+I am a Computer Science Engineering student specialising in **Artificial Intelligence and Machine Learning** at Lovely Professional University. My approach to AI is unconventional — instead of using frameworks as black boxes, I build everything from first principles.
 
-```python
-class Ayush(AIResearcher):
-    
-    name     = "Ayush Mishra"
-    location = "Lucknow, India 🇮🇳"
-    degree   = "B.Tech CSE (AI & ML) @ LPU"
-    batch    = "2025 → 2029"
-    
-    currently_building = [
-        "Backprop engine from scratch",
-        "GPT Transformer (week by week)",
-        "Offline Personal AI Assistant",
-    ]
-    
-    research_interests = [
-        "Deep Learning",
-        "Large Language Models",
-        "Neural Architecture",
-        "Applied AI Systems",
-    ]
-    
-    life_motto = "Don't just use AI. Understand it. Build it."
-```
-
-<br clear="right"/>
+I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero** — implementing backpropagation engines, language models, and transformer architectures entirely from scratch. My long-term goal is to become an AI Researcher focused on systems that are not just functional, but genuinely intelligent.
 
 ---
 
-## ⚡ What I'm Building Right Now
+## Profile
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🧠 Deep Learning from Scratch</h3>
-      <p>Following Karpathy's <em>Neural Networks: Zero to Hero</em> — building every model from absolute first principles. No library magic, just pure math and Python.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Week-01%20Micrograd-00c8ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
-      </p>
-      <a href="https://github.com/ayush506x/deep-learning-journey">
-        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github"/>
-      </a>
+    <td width="50%" valign="top">
+
+**Education**
+| | |
+|:--|:--|
+| Degree | B.Tech — CSE (AI & ML Specialization) |
+| University | Lovely Professional University |
+| Batch | August 2025 → September 2029 |
+| Location | Lucknow, Uttar Pradesh, India |
+
+  </td>
+    <td width="50%" valign="top">
+
+**Research Interests**
+| | |
+|:--|:--|
+| Primary | Deep Learning, Neural Networks |
+| Focus | Large Language Models, Transformers |
+| Applied | Edge AI, On-device Inference |
+| Exploring | Computer Vision, NLP |
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Currently Working On**
+| Status | Project |
+|:--|:--|
+| 🟢 Active | Micrograd — backprop engine from scratch |
+| 🟡 Next | Makemore — character language model |
+| 🔵 Planned | GPT Transformer from scratch |
+| 🔵 Planned | Offline Personal AI Assistant (capstone) |
+| 🟢 Active | DSA in Python — daily LeetCode practice |
+
+  </td>
+    <td width="50%" valign="top">
+
+**Principles**
+| | |
+|:--|:--|
+| Learning | Build from scratch, not from tutorials |
+| Practice | Daily commits over weekend sprints |
+| Mindset | First principles over black boxes |
+| Goal | Open to research collaborations |
+
+  </td>
+  </tr>
+</table>
+
+> *"Don't just use AI. Understand it. Build it."*
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Deep Learning from Scratch</h4>
+      <p>Self-directed 16-week curriculum following Karpathy's Neural Networks: Zero to Hero. Building every model from absolute first principles — no library magic, pure Python and math.</p>
+      <img src="https://img.shields.io/badge/Week%2001-Micrograd-1a56a0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Active-28ca41?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/deep-learning-journey"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%">
-      <h3>🌿 Plant Disease Detection</h3>
-      <p>Real-time AI + IoT system combining MobileNetV2 deep learning with ESP32 hardware. On-device inference — no cloud, no internet required.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20ESP32-ff6f00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Type-Edge%20AI-28ca41?style=flat-square"/>
-      </p>
-      <a href="https://github.com/ayush506x/plant-disease-project-using-iot">
-        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4>Plant Disease Detection — AI + IoT</h4>
+      <p>Real-time plant disease detection combining MobileNetV2 deep learning with ESP32 hardware. Fully on-device inference — no cloud, no internet dependency.</p>
+      <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20ESP32-ff6f00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Edge%20AI-1a56a0?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/plant-disease-project-using-iot"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 Offline Personal AI Assistant</h3>
-      <p>The capstone. A fully offline AI assistant — no API calls, no cloud. Runs entirely on local hardware. Built from everything learned in this curriculum.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Upcoming%20Capstone-7c4dff?style=flat-square"/>
-      </p>
+    <td width="50%" valign="top">
+      <h4>Offline Personal AI Assistant</h4>
+      <p>Capstone project of the deep learning curriculum. A fully offline AI assistant — no API calls, no cloud dependency. Runs entirely on local hardware using everything built in the curriculum.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
     </td>
-    <td width="50%">
-      <h3>📊 DSA in Python</h3>
-      <p>Solving Data Structures & Algorithms problems in Python — Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Interview prep for AI/ML roles.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python"/>
-      </p>
-      <a href="https://github.com/ayush506x/Data-Structure-Algorithm">
-        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4>Data Structures & Algorithms — Python</h4>
+      <p>Structured DSA practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview preparation.</p>
+      <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/Data-Structure-Algorithm"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI / ML Stack**
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -144,76 +159,62 @@ class Ayush(AIResearcher):
 
 ---
 
-## 📍 Karpathy Roadmap — Zero to Hero
+## Learning Roadmap — Karpathy: Zero to Hero
 
 ```
-🧠 Neural Networks: Zero to Hero
+Neural Networks: Zero to Hero
 │
-├── ✅  Week 01 — Micrograd        Backpropagation engine from scratch
-├── 🔄  Week 02 — Makemore I       Bigram character language model
-├── ⏳  Week 03 — Makemore II      MLP language model
-├── ⏳  Week 04 — Makemore III     Activations, Gradients, BatchNorm
-├── ⏳  Week 05 — Makemore IV      Backprop Ninja
-├── ⏳  Week 06 — Makemore V       WaveNet-style model
-├── ⏳  Week 07 — GPT Part I       Self-attention + Transformer blocks
-├── ⏳  Week 08 — GPT Part II      BPE Tokenizer from scratch
+├── ✅  Week 01   Micrograd          Backpropagation engine from scratch
+├── 🔄  Week 02   Makemore I         Bigram character-level language model
+├── ⏳  Week 03   Makemore II        MLP language model
+├── ⏳  Week 04   Makemore III       Activations, Gradients, Batch Normalisation
+├── ⏳  Week 05   Makemore IV        Backpropagation in full detail
+├── ⏳  Week 06   Makemore V         WaveNet-style hierarchical model
+├── ⏳  Week 07   GPT I              Self-attention and Transformer architecture
+├── ⏳  Week 08   GPT II             BPE Tokeniser from scratch
 │
-└── 🏆  Capstone — Offline Personal AI Assistant
-         No API. No cloud. Runs entirely on local hardware.
+└── 🏆  Capstone  Offline AI Assistant
+                  No API. No cloud. Runs entirely on local hardware.
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush506x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00c8ff&text_color=c9d1d9&ring_color=00c8ff" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush506x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayush506x&theme=tokyonight&hide_border=true&background=0d1117&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=00c8ff" height="180"/>
-
-</div>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| 🟠 | Machine Learning Essentials for Business & Technical Decision Makers | **AWS** |
-| 🟠 | Introduction to Generative AI — Art of the Possible | **AWS** |
-| 🐍 | Python Programming | **Certified** |
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-I'm always open to **research collaborations**, **AI projects**, and connecting with people serious about pushing the boundaries of machine intelligence.
-
-<br/>
-
-<a href="https://linkedin.com/in/ayush5606">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush506x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=1a56a0&text_color=88b4cc" height="175"/>
 &nbsp;
-<a href="mailto:ayush7984k@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush506x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=88b4cc" height="175"/>
 
-<br/><br/>
+<br/>
 
-> *"The best way to understand intelligence is to build it."*
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ayush506x&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a56a0&fire=1a56a0&currStreakLabel=88b4cc&sideLabels=88b4cc" height="175"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:0a2a4a,100:0d1117&height=120&section=footer"/>
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|:--|:--|:--|
+| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2025 |
+| Introduction to Generative AI — Art of the Possible | AWS | 2025 |
+| Python Programming | Certified | 2025 |
+
+---
+
+## Contact
+
+I am open to research collaborations, AI/ML projects, and internship opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush5606)
+&nbsp;
+[![Email](https://img.shields.io/badge/ayush7984k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush7984k@gmail.com)
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56a0,100:0d1117&height=100&section=footer"/>
+</div>
