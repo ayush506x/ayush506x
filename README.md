@@ -13,6 +13,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=600&lines=Building+neural+networks+from+first+principles;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Karpathy's+Zero+to+Hero+%E2%86%92+Week+01+Micrograd;Aspiring+AI+Researcher+%26+Scientist" alt="Typing SVG" />
 
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/1a56a0/ayush506x" alt="Ayush's GitHub contribution graph" />
+
 </div>
 
 ---
