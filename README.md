@@ -15,9 +15,7 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/1a56a0/ayush506x" alt="Ayush's GitHub contribution graph" />
 
-</div>
 
 ---
 
@@ -180,24 +178,6 @@ Neural Networks: Zero to Hero
 └── 🏆  Capstone  Offline AI Assistant
                   No API. No cloud. Runs entirely on local hardware.
 ```
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayush506x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=1a56a0&text_color=88b4cc" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush506x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=88b4cc" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayush506x&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a56a0&fire=1a56a0&currStreakLabel=88b4cc&sideLabels=88b4cc" height="175"/>
-
-</div>
-
----
 
 ## Certifications
 
