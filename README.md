@@ -183,7 +183,7 @@ Neural Networks: Zero to Hero
 
 | Certification | Issuer | Year |
 |:--|:--|:--|
-| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2025 |
+| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2026|
 | Introduction to Generative AI — Art of the Possible | AWS | 2025 |
 | Python Programming | Certified | 2025 |
 
