@@ -39,7 +39,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 | Degree | B.Tech — CSE (AI & ML Specialization) |
 | University | Lovely Professional University |
 | Batch | August 2025 → September 2029 |
-| Location | Lucknow, Uttar Pradesh, India |
+| Location | Phagwara, Punjab, India |
 
   </td>
     <td width="50%" valign="top">
