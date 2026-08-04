@@ -81,7 +81,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
   </tr>
 </table>
 
-> *"Don't just use AI. Understand it. Build it."*
+> *"Don't just use AI. Understand it ,  Build it."*
 
 ---
 
