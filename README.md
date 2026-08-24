@@ -21,7 +21,7 @@
 
 ## About
 
-I am a Computer Science Engineering student specialising in **Artificial Intelligence and Machine Learning** at Lovely Professional University. My approach to AI is unconventional — instead of using frameworks as black boxes, I build everything from first principles and scratch.
+I am a Computer Science Engineering second year student specialising in **Artificial Intelligence and Machine Learning** at Lovely Professional University. My approach to AI is unconventional — instead of using frameworks as black boxes, I build everything from first principles and scratch.
 
 I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero** — implementing backpropagation engines, language models, and transformer architectures entirely from scratch. My long-term goal is to become an AI Researcher focused on systems that are not just functional, but genuinely intelligent.
 
