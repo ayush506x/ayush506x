@@ -114,7 +114,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
     </td>
     <td width="50%" valign="top">
       <h4>Data Structures & Algorithms — Python</h4>
-      <p>Structured DSA practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview preparation.</p>
+      <p>Structured DSA Question practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview preparation.</p>
       <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/ayush506x/Data-Structure-Algorithm"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
