@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a56a0&height=180&section=header&text=Ayush%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82Edge%20AI%20%E2%80%82%7C%E2%80%82Aspiring%20AI%20Researcher&descAlignY=56&descSize=16&descColor=88b4cc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a56a0&height=180&section=header&text=Ayush%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Edge%20AI%20Engineer%20%E2%80%82%7C%E2%80%82Embedded%20Systems%20%E2%80%82%7C%E2%80%82On-device%20Inference&descAlignY=56&descSize=16&descColor=88b4cc"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=650&lines=Building+neural+networks+that+ship+on+real+hardware;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Edge+AI+Engineer+%E2%80%94+on-device+inference%2C+zero+cloud;Aspiring+AI+Researcher+%26+Scientist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=650&lines=Deploying+AI+models+on+real+hardware%2C+not+just+notebooks;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Edge+AI+Engineer+%E2%80%94+ESP32%2C+ESP32-CAM%2C+on-device+inference;Zero-cloud+AI+systems+that+ship" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,9 +19,9 @@
 
 ## About
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at Lovely Professional University, focused on **Edge AI and on-device inference** — deploying models that run without a cloud dependency, not just training them in a notebook.
+I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI systems that run directly on embedded hardware, with zero cloud dependency.
 
-I've shipped real-time inference on embedded hardware — from a face-detection security system running directly on an ESP32-CAM, to an AI-driven queue management system — and I'm building a fully offline AI assistant as my capstone. My long-term goal is AI research that ships, not just papers.
+My work spans real-time face detection on ESP32-CAM, AI-driven queue management, and on-device plant disease diagnostics — systems designed for low-latency inference in the field, not just training runs in a notebook. I care about the last mile: getting a model off a GPU and onto a chip that actually ships.
 
 ---
 
@@ -46,9 +46,9 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
 | | |
 |:--|:--|
 | Primary | Edge AI, On-device Inference |
-| Applied | Embedded Vision, IoT + AI Systems |
-| Core | Deep Learning, Neural Networks |
-| Exploring | LLMs, Transformers, NLP |
+| Hardware | ESP32, ESP32-CAM, Embedded Vision |
+| Applied | IoT + AI System Integration |
+| Core | Deep Learning, Computer Vision |
 
   </td>
   </tr>
@@ -59,9 +59,9 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
 | Status | Project |
 |:--|:--|
 | 🟢 Active | Offline Personal AI Assistant (capstone) |
-| 🟢 Active | Neural Networks from First Principles (research track) |
+| 🟢 Active | Edge inference optimization for embedded vision |
 | 🟢 Active | DSA in Python — daily practice |
-| 🔵 Planned | GPT Transformer from scratch |
+| 🔵 Planned | New embedded AI deployment targets |
 
   </td>
     <td width="50%" valign="top">
@@ -72,13 +72,13 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
 | Delivery | Shipped systems over tutorials |
 | Practice | Daily commits over weekend sprints |
 | Mindset | Deploy on real hardware, not just notebooks |
-| Goal | Open to research collaborations |
+| Goal | Open to Edge AI / embedded ML roles & internships |
 
   </td>
   </tr>
 </table>
 
-> *"Don't just use AI. Understand it. Ship it."*
+> *"Don't just train a model. Ship it — on-device, in real time."*
 
 ---
 
@@ -118,8 +118,8 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Neural Networks from First Principles</h4>
-      <p>Self-directed research track building core deep learning components — backpropagation engines, language models, and transformer architectures — from the ground up to internalize how they actually work.</p>
+      <h4>Neural Network Engineering Fundamentals</h4>
+      <p>Hands-on build of core deep learning components — backpropagation engines and language models — from the ground up, to engineer models with full control rather than treat them as black boxes.</p>
       <img src="https://img.shields.io/badge/Week%2001-Micrograd-1a56a0?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Active-28ca41?style=flat-square"/>
       <br/><br/>
@@ -152,6 +152,7 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -176,22 +177,20 @@ I've shipped real-time inference on embedded hardware — from a face-detection 
 
 ---
 
-## Learning Roadmap — Neural Networks: Zero to Hero
+## Engineering Roadmap
 
 ```
-Neural Networks: Zero to Hero
+Edge AI Engineering Path
 │
-├── ✅  Week 01   Micrograd          Backpropagation engine from scratch
-├── 🔄  Week 02   Makemore I         Bigram character-level language model
-├── ⏳  Week 03   Makemore II        MLP language model
-├── ⏳  Week 04   Makemore III       Activations, Gradients, Batch Normalisation
-├── ⏳  Week 05   Makemore IV        Backpropagation in full detail
-├── ⏳  Week 06   Makemore V         WaveNet-style hierarchical model
-├── ⏳  Week 07   GPT I              Self-attention and Transformer architecture
-├── ⏳  Week 08   GPT II             BPE Tokeniser from scratch
+├── ✅  Foundations     Micrograd — backprop engine from scratch
+├── 🔄  Deployment I    Embedded vision on ESP32-CAM (face detection)
+├── ✅  Deployment II   On-device plant disease classification
+├── ✅  Deployment III  AI-driven queue management system
+├── ⏳  Optimization    Model compression & quantization for edge targets
+├── ⏳  Integration     Sensor fusion + on-device pipelines
 │
-└── 🏆  Capstone  Offline AI Assistant
-                  No API. No cloud. Runs entirely on local hardware.
+└── 🏆  Capstone        Offline AI Assistant
+                        No API. No cloud. Runs entirely on local hardware.
 ```
 
 ## Certifications
@@ -206,7 +205,7 @@ Neural Networks: Zero to Hero
 
 ## Contact
 
-I am open to research collaborations, AI/ML projects, and internship opportunities.
+I am open to **Edge AI / embedded ML roles**, IoT + AI projects, and internship opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush5606)
 &nbsp;
