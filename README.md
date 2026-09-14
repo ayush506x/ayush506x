@@ -21,7 +21,7 @@
 
 I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI systems that run directly on embedded hardware, with zero cloud dependency.
 
-My work spans real-time face detection on ESP32-CAM, AI-driven queue management, and on-device plant disease diagnostics — systems designed for low-latency inference in the field, not just training runs in a notebook. I care about the last mile: getting a model off a GPU and onto a chip that actually ships.
+My work spans real-time face detection on ESP32-CAM, AI-driven queue management, and on-device plant disease diagnostics — systems designed for low-latency inference in the field, not just training runs in a notebook. By combining deep learning with bare-metal C++ programming for Arduino and ESP architectures, I care about the last mile: getting a model off a GPU and onto a chip that actually ships.
 
 ---
 
@@ -47,7 +47,7 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 |:--|:--|
 | Primary | Edge AI, On-device Inference |
 | Hardware | ESP32, ESP32-CAM, Embedded Vision |
-| Applied | IoT + AI System Integration |
+| Applied | IoT + Sensor Fusion Integration |
 | Core | Deep Learning, Computer Vision |
 
   </td>
@@ -60,8 +60,8 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 |:--|:--|
 | 🟢 Active | Offline Personal AI Assistant (capstone) |
 | 🟢 Active | Edge inference optimization for embedded vision |
-| 🟢 Active | DSA in Python — daily practice |
-| 🔵 Planned | New embedded AI deployment targets |
+| 🟢 Active | Building Neural Nets from scratch (Zero to Hero) |
+| 🔵 Planned | Custom Hardware Assembly & Embedded Deployment |
 
   </td>
     <td width="50%" valign="top">
@@ -84,53 +84,65 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 
 ## Projects
 
-**6+ AI / Edge AI systems shipped** — from embedded inference to full-stack applied ML.
+**10+ AI & Embedded Edge systems shipped** — from bare-metal hardware programming to full-stack applied ML.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Advanced Face Detection Security System — ESP32-CAM</h4>
+      <h4>Advanced Face Detection System — ESP32-CAM</h4>
       <p>Real-time facial detection and access-control system running inference directly on ESP32-CAM hardware. Fully on-device — no cloud round-trip for detection, built for low-latency edge deployment.</p>
       <img src="https://img.shields.io/badge/Stack-ESP32--CAM%20%7C%20OpenCV-1a56a0?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-Edge%20AI%20Security-e7352c?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h4>AI-Powered Queue Management System</h4>
-      <p>Intelligent queue monitoring and optimization system using AI to track flow, predict wait times, and manage load in real time — built for practical deployment, not just a demo.</p>
-      <img src="https://img.shields.io/badge/Type-Applied%20AI%20System-1a56a0?style=flat-square"/>
+      <p>Intelligent capacity tracking utilizing dual IR sensors, servo barriers, and traffic light modules. Processes flow algorithms in real-time on-device to manage load and gate control autonomously.</p>
+      <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20Sensor%20Fusion-1a56a0?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Delivered-28ca41?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Plant Disease Detection — Advanced AI + IoT</h4>
-      <p>Real-time plant disease detection combining deep learning with ESP32 hardware for fully on-device inference. Enhanced pipeline covering multi-class disease classification with no cloud dependency.</p>
+      <h4>Multi-Sensor Fire & Gas Edge Alert</h4>
+      <p>Autonomous hazard detection combining MQ gas sensors, DHT22, and flame IR sensors. Uses localized edge sensor fusion logic to trigger immediate relay and buzzer alerts for gas leaks and fire without network reliance.</p>
+      <img src="https://img.shields.io/badge/Stack-Embedded%20C%2B%2B%20%7C%20Hardware-ff6f00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-IoT%20Safety-1a56a0?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Plant Disease & Health Monitor</h4>
+      <p>Comprehensive monitoring integrating soil moisture, temperature, and humidity tracking via OLED/I2C LCD displays. Expanded with TensorFlow for on-device disease classification via ESP32.</p>
       <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20ESP32-ff6f00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Type-Edge%20AI-1a56a0?style=flat-square"/>
       <br/><br/>
       <a href="https://github.com/ayush506x/plant-disease-project-using-iot"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>Offline Personal AI Assistant</h4>
-      <p>Capstone project — a fully offline AI assistant. No API calls, no cloud dependency. Runs entirely on local hardware.</p>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
+      <h4>Smart RFID Embedded Vending Controller</h4>
+      <p>Hardware state-machine programmed in C++ to handle MFRC522 card authorization, timer-based logic, and dual servo dispensing via push-button matrix and LCD interface.</p>
+      <img src="https://img.shields.io/badge/Stack-Arduino%20C%2B%2B-00979D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Embedded%20Systems-1a56a0?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Edge Access Control Smart Lock</h4>
+      <p>Physical security system engineered with a matrix keypad, solenoid lock, relay, and servo mechanism. Fully self-contained C++ password verification and unlocking loop.</p>
+      <img src="https://img.shields.io/badge/Stack-Embedded%20C%2B%2B-00979D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Delivered-28ca41?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>Neural Network Engineering Fundamentals</h4>
-      <p>Hands-on build of core deep learning components — backpropagation engines and language models — from the ground up, to engineer models with full control rather than treat them as black boxes.</p>
-      <img src="https://img.shields.io/badge/Week%2001-Micrograd-1a56a0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Status-Active-28ca41?style=flat-square"/>
+      <p>Hands-on build of core deep learning components — writing autograd backpropagation engines and character-level language models from scratch in Python to master the math behind the models.</p>
+      <img src="https://img.shields.io/badge/Stack-PyTorch%20%7C%20Python-EE4C2C?style=flat-square"/>
       <br/><br/>
       <a href="https://github.com/ayush506x/deep-learning-journey"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h4>Data Structures & Algorithms — Python</h4>
-      <p>Structured DSA practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview prep.</p>
-      <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/ayush506x/Data-Structure-Algorithm"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <h4>Offline Personal AI Assistant</h4>
+      <p>Capstone project — a fully offline AI assistant. No API calls, no cloud dependency. Runs entirely on local hardware for ultimate privacy and zero-latency response.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Edge%20LLM-1a56a0?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -144,9 +156,8 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 **Languages**
 
 ![Python 3.9+](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI / ML**
 
@@ -155,23 +166,19 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Hardware & Edge AI**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Sensors & Actuators](https://img.shields.io/badge/Sensor%20Fusion-76B900?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -179,40 +186,16 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
 
 ## Engineering Roadmap
 
-```
+```text
 Edge AI Engineering Path
 │
-├── ✅  Foundations     Micrograd — backprop engine from scratch
-├── 🔄  Deployment I    Embedded vision on ESP32-CAM (face detection)
-├── ✅  Deployment II   On-device plant disease classification
-├── ✅  Deployment III  AI-driven queue management system
-├── ⏳  Optimization    Model compression & quantization for edge targets
-├── ⏳  Integration     Sensor fusion + on-device pipelines
+├── ✅  Embedded Foundations    C++ programming, sensor integration, hardware logic
+├── ✅  Hardware Control        RFID vending, Smart Locks, and Multi-Sensor Fusion
+├── ✅  AI Fundamentals         Micrograd — backprop engines & bigram models from scratch
+├── 🔄  Deployment I            Embedded vision on ESP32-CAM (face detection)
+├── ✅  Deployment II           On-device plant disease classification
+├── ✅  Deployment III          AI-driven queue management systems
+├── ⏳  Optimization            Model compression & quantization for edge targets
 │
-└── 🏆  Capstone        Offline AI Assistant
-                        No API. No cloud. Runs entirely on local hardware.
-```
-
-## Certifications
-
-| Certification | Issuer | Year |
-|:--|:--|:--|
-| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2026 |
-| Introduction to Generative AI — Art of the Possible | AWS | 2025 |
-| Python Programming | Certified | 2025 |
-
----
-
-## Contact
-
-I am open to **Edge AI / embedded ML roles**, IoT + AI projects, and internship opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush5606)
-&nbsp;
-[![Email](https://img.shields.io/badge/ayush7984k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush7984k@gmail.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56a0,100:0d1117&height=100&section=footer"/>
-</div>
+└── 🏆  Capstone                Offline AI Assistant
+                                No API. No cloud. Runs entirely on local hardware.
