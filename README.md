@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a56a0&height=180&section=header&text=Ayush%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82Deep%20Learning%20%E2%80%82%7C%E2%80%82Aspiring%20AI%20Researcher&descAlignY=56&descSize=16&descColor=88b4cc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a56a0&height=180&section=header&text=Ayush%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82Edge%20AI%20%E2%80%82%7C%E2%80%82Aspiring%20AI%20Researcher&descAlignY=56&descSize=16&descColor=88b4cc"/>
 
 <br/>
 
@@ -11,19 +11,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=600&lines=Building+neural+networks+from+first+principles;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Karpathy's+Zero+to+Hero+%E2%86%92+Week+01+Micrograd;Aspiring+AI+Researcher+%26+Scientist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=88B4CC&center=true&vCenter=true&width=650&lines=Building+neural+networks+that+ship+on+real+hardware;CSE+(AI+%26+ML)+%40+LPU+%7C+2025%E2%80%932029;Edge+AI+Engineer+%E2%80%94+on-device+inference%2C+zero+cloud;Aspiring+AI+Researcher+%26+Scientist" alt="Typing SVG" />
 
 <br/><br/>
-
-
 
 ---
 
 ## About
 
-I am a Computer Science Engineering second year student specialising in **Artificial Intelligence and Machine Learning** at Lovely Professional University. My approach to AI is unconventional — instead of using frameworks as black boxes, I build everything from first principles and scratch.
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at Lovely Professional University, focused on **Edge AI and on-device inference** — deploying models that run without a cloud dependency, not just training them in a notebook.
 
-I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero** — implementing backpropagation engines, language models, and transformer architectures entirely from scratch. My long-term goal is to become an AI Researcher focused on systems that are not just functional, but genuinely intelligent.
+I've shipped real-time inference on embedded hardware — from a face-detection security system running directly on an ESP32-CAM, to an AI-driven queue management system — and I'm building a fully offline AI assistant as my capstone. My long-term goal is AI research that ships, not just papers.
 
 ---
 
@@ -44,13 +42,13 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
   </td>
     <td width="50%" valign="top">
 
-**Research Interests**
+**Focus Areas**
 | | |
 |:--|:--|
-| Primary | Deep Learning, Neural Networks |
-| Focus | Large Language Models, Transformers |
-| Applied | Edge AI, On-device Inference |
-| Exploring | Computer Vision, NLP |
+| Primary | Edge AI, On-device Inference |
+| Applied | Embedded Vision, IoT + AI Systems |
+| Core | Deep Learning, Neural Networks |
+| Exploring | LLMs, Transformers, NLP |
 
   </td>
   </tr>
@@ -60,11 +58,10 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 **Currently Working On**
 | Status | Project |
 |:--|:--|
-| 🟢 Active | Micrograd — backprop engine from scratch |
-| 🟡 Next | Makemore — character language model |
+| 🟢 Active | Offline Personal AI Assistant (capstone) |
+| 🟢 Active | Neural Networks from First Principles (research track) |
+| 🟢 Active | DSA in Python — daily practice |
 | 🔵 Planned | GPT Transformer from scratch |
-| 🔵 Planned | Offline Personal AI Assistant (capstone) |
-| 🟢 Active | DSA in Python — daily LeetCode practice |
 
   </td>
     <td width="50%" valign="top">
@@ -72,49 +69,65 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 **Principles**
 | | |
 |:--|:--|
-| Learning | Build from scratch, not from tutorials |
+| Delivery | Shipped systems over tutorials |
 | Practice | Daily commits over weekend sprints |
-| Mindset | First principles over black boxes |
+| Mindset | Deploy on real hardware, not just notebooks |
 | Goal | Open to research collaborations |
 
   </td>
   </tr>
 </table>
 
-> *"Don't just use AI. Understand it ,  Build it."*
+> *"Don't just use AI. Understand it. Ship it."*
 
 ---
 
 ## Projects
 
+**6+ AI / Edge AI systems shipped** — from embedded inference to full-stack applied ML.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Deep Learning from Scratch</h4>
-      <p>Self-directed 16-week curriculum following Karpathy's Neural Networks: Zero to Hero. Building every model from absolute first principles — no library magic, pure Python and math.</p>
+      <h4>Advanced Face Detection Security System — ESP32-CAM</h4>
+      <p>Real-time facial detection and access-control system running inference directly on ESP32-CAM hardware. Fully on-device — no cloud round-trip for detection, built for low-latency edge deployment.</p>
+      <img src="https://img.shields.io/badge/Stack-ESP32--CAM%20%7C%20OpenCV-1a56a0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Edge%20AI%20Security-e7352c?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI-Powered Queue Management System</h4>
+      <p>Intelligent queue monitoring and optimization system using AI to track flow, predict wait times, and manage load in real time — built for practical deployment, not just a demo.</p>
+      <img src="https://img.shields.io/badge/Type-Applied%20AI%20System-1a56a0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Delivered-28ca41?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Plant Disease Detection — Advanced AI + IoT</h4>
+      <p>Real-time plant disease detection combining deep learning with ESP32 hardware for fully on-device inference. Enhanced pipeline covering multi-class disease classification with no cloud dependency.</p>
+      <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20ESP32-ff6f00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Edge%20AI-1a56a0?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/plant-disease-project-using-iot"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Offline Personal AI Assistant</h4>
+      <p>Capstone project — a fully offline AI assistant. No API calls, no cloud dependency. Runs entirely on local hardware.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Neural Networks from First Principles</h4>
+      <p>Self-directed research track building core deep learning components — backpropagation engines, language models, and transformer architectures — from the ground up to internalize how they actually work.</p>
       <img src="https://img.shields.io/badge/Week%2001-Micrograd-1a56a0?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Active-28ca41?style=flat-square"/>
       <br/><br/>
       <a href="https://github.com/ayush506x/deep-learning-journey"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h4>Plant Disease Detection — AI + IoT</h4>
-      <p>Real-time plant disease detection combining MobileNetV2 deep learning with ESP32 hardware. Fully on-device inference — no cloud, no internet dependency.</p>
-      <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20ESP32-ff6f00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Type-Edge%20AI-1a56a0?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/ayush506x/plant-disease-project-using-iot"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Offline Personal AI Assistant</h4>
-      <p>Capstone project of the deep learning curriculum. A fully offline AI assistant — no API calls, no cloud dependency. Runs entirely on local hardware using everything built in the curriculum.</p>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
       <h4>Data Structures & Algorithms — Python</h4>
-      <p>Structured DSA Question practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview preparation.</p>
+      <p>Structured DSA practice in Python covering Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming. Daily problem solving for AI/ML engineering interview prep.</p>
       <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/ayush506x/Data-Structure-Algorithm"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -139,6 +152,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -147,6 +161,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Tools**
@@ -161,7 +176,7 @@ I am currently working through **Andrej Karpathy's Neural Networks: Zero to Hero
 
 ---
 
-## Learning Roadmap — Karpathy: Zero to Hero
+## Learning Roadmap — Neural Networks: Zero to Hero
 
 ```
 Neural Networks: Zero to Hero
@@ -183,7 +198,7 @@ Neural Networks: Zero to Hero
 
 | Certification | Issuer | Year |
 |:--|:--|:--|
-| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2026|
+| Machine Learning Essentials for Business & Technical Decision Makers | AWS | 2026 |
 | Introduction to Generative AI — Art of the Possible | AWS | 2025 |
 | Python Programming | Certified | 2025 |
 
