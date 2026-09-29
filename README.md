@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI systems that run directly on embedded hardware, with zero cloud dependency.
+I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI system that run directly on embedded hardware, with zero cloud dependency.
 
 My work spans real-time face detection on ESP32-CAM, AI-driven queue management, and on-device plant disease diagnostics — systems designed for low-latency inference in the field, not just training runs in a notebook. By combining deep learning with bare-metal C++ programming for Arduino and ESP architectures, I care about the last mile: getting a model off a GPU and onto a chip that actually ships.
 
