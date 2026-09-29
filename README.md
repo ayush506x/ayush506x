@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI system that run directly on embedded hardware, with zero cloud dependency.
+I'm a Computer Science Engineering student specializing in **AI & ML** at Lovely Professional University, working as an **Edge AI Engineer** — I build and deploy AI systems that run directly on embedded hardware, with zero cloud dependency.
 
 My work spans real-time face detection on ESP32-CAM, AI-driven queue management, and on-device plant disease diagnostics — systems designed for low-latency inference in the field, not just training runs in a notebook. By combining deep learning with bare-metal C++ programming for Arduino and ESP architectures, I care about the last mile: getting a model off a GPU and onto a chip that actually ships.
 
@@ -93,6 +93,8 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
       <p>Real-time facial detection and access-control system running inference directly on ESP32-CAM hardware. Fully on-device — no cloud round-trip for detection, built for low-latency edge deployment.</p>
       <img src="https://img.shields.io/badge/Stack-ESP32--CAM%20%7C%20OpenCV-1a56a0?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-Edge%20AI%20Security-e7352c?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/ESP32-Face-Cam-Detection-and-Acess-Control"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>AI-Powered Queue Management System</h4>
@@ -122,6 +124,8 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
       <p>Hardware state-machine programmed in C++ to handle MFRC522 card authorization, timer-based logic, and dual servo dispensing via push-button matrix and LCD interface.</p>
       <img src="https://img.shields.io/badge/Stack-Arduino%20C%2B%2B-00979D?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-Embedded%20Systems-1a56a0?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/smart-rfid-vending-controller"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>Edge Access Control Smart Lock</h4>
@@ -143,6 +147,38 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
       <p>Capstone project — a fully offline AI assistant. No API calls, no cloud dependency. Runs entirely on local hardware for ultimate privacy and zero-latency response.</p>
       <img src="https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-Edge%20LLM-1a56a0?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Data Structures & Algorithms</h4>
+      <p>Implementation of various data structures and algorithms in C++.</p>
+      <img src="https://img.shields.io/badge/Stack-C%2B%2B-00599C?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/Data-Structure-Algorithm"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>C/C++ Language Projects</h4>
+      <p>Collection of C and C++ programming language exercises and projects.</p>
+      <img src="https://img.shields.io/badge/Stack-C%2F%2FC%2B%2B-00599C?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/C-c-Language-"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>PDF & Doc Processor</h4>
+      <p>Repository for processing various document formats and generating MCQ questions.</p>
+      <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/Pdf-Word-txt-mcq_questions-"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Claude AI Utilities</h4>
+      <p>GitHub profile preview utility and other AI-related frontend experiments.</p>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20JSX-61DAFB?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/ayush506x/Claude"><img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
