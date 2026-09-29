@@ -129,7 +129,7 @@ My work spans real-time face detection on ESP32-CAM, AI-driven queue management,
     </td>
     <td width="50%" valign="top">
       <h4>Edge Access Control Smart Lock</h4>
-      <p>Physical security system engineered with a matrix keypad, solenoid lock, relay, and servo mechanism. Fully self-contained C++ password verification and unlocking loop.</p>
+      <p>Physical security systems engineered with a matrix keypad, solenoid lock, relay, and servo mechanism. Fully self-contained C++ password verification and unlocking loop.</p>
       <img src="https://img.shields.io/badge/Stack-Embedded%20C%2B%2B-00979D?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Delivered-28ca41?style=flat-square"/>
     </td>
