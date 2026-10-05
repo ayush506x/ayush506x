@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Ayush Mishra — Edge AI portfolio">
+  <rect width="1100" height="300" fill="#0b0d10"/>
+  <g fill="#1c2228" opacity="0.9">
+    <circle cx="980" cy="70" r="90"/>
+    <circle cx="1040" cy="220" r="50"/>
+    <rect x="860" y="140" width="180" height="1"/>
+    <rect x="860" y="148" width="120" height="1"/>
+    <rect x="860" y="156" width="90" height="1"/>
+  </g>
+  <rect x="48" y="48" width="36" height="2" fill="#c4a574"/>
+  <text x="48" y="78" fill="#c4a574" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4">PORTFOLIO  ·  EDGE AI  ·  EMBEDDED</text>
+  <text x="48" y="150" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="52">Ayush Mishra</text>
+  <text x="48" y="192" fill="#9aa3ad" font-family="Georgia, 'Times New Roman', serif" font-size="18">Models that run on the board. Not in the cloud.</text>
+  <text x="48" y="248" fill="#6b7380" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="1.5">ESP32  →  INFERENCE  →  ACTUATOR</text>
+</svg>
