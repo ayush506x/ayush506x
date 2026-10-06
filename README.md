@@ -9,7 +9,7 @@
 
 ---
 
-### `[I][Mem] : Dumping project pointers...`
+### `[I][Mem] : Dumping projects pointers...`
 
 **`0x100` [Plant Disease & Health Monitor](https://github.com/ayush506x/plant-disease-project-using-iot)**
 * `[Sys]` TensorFlow Lite on ESP32 + soil/temp/humidity sensors + I2C OLED.
